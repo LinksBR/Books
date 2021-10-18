@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="title_book_search">Book Search</string>
+    <string name="hin_keyword">Keyword</string>
+    <string name="hin_author">Author</string>
+    <string name="text_btn_search">Button Search</string>
+</resources>
